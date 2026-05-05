@@ -47,7 +47,7 @@ The project builds and evaluates several models to predict apartment rent prices
 
 ## How to Run
 
-1. Clone or download the repository to your local machine.
+1. Clone or download the repository to your local machine.(Kaagle dataset link: https://www.kaggle.com/datasets/shashanks1202/apartment-rent-data)
 2. Ensure you have R installed and the required libraries.
 3. Place `apartments.csv` in your working directory.
 4. Open `Apartment_Analysis_Final (2).R` in RStudio or your preferred R environment.
